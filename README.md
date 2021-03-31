@@ -11,7 +11,7 @@ The home page contains the navbar, footer and shop now button that can redirect 
 
 Product list Page:
 
-![image](https://user-images.githubusercontent.com/64376922/113173058-a9eaf800-9266-11eb-9ce6-3cab8ef56b16.png)
+![image](https://user-images.githubusercontent.com/64376922/113173652-3bf30080-9267-11eb-8ac1-256f28e3d61e.png)
 
 This page contains the various products that can be selected and added to the cart. They show unique animations when interacted with.
 
