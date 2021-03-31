@@ -1,4 +1,4 @@
-# sneakerwala - An Online Sneaker Shop
+# Sneakerwala - An Online Sneaker Shop
 This is a basic website that contains various online shop components which showcases our abilities in various technologies like HTML5, CSS3, PHP, and JavaScript. It contains several web pages like the home page and the login page.
 
 *Disclaimer-This is a basic webite with an original template which is majorly frontend and has very few backend components like the forms. Some components in the webiste might not work.
