@@ -3,7 +3,7 @@ This is a basic website that contains various online shop components which showc
 
 *Disclaimer-This is a basic webite with an original template which is majorly frontend and has very few backend components like the forms. Some components in the webiste might not work.
 
-# Components 
+## Components 
 
 ###### 1. **Home Page:**
 The home page contains the navbar, footer and shop now button that can redirect you to the product list.
